@@ -5,7 +5,7 @@ This repository contains the main analysis code and figures for the manuscript
 
 - **[Main analysis](./1_main_analysis_br.R)**: Script used to estimate the association between ambient temperature and non-accidental mortality across Brazilian municipalities using a space-time case-crossover design.
 
-- **[Exposure-response curves](./2_exposure_response_curves_byRegion.R)**: Script to generate region-specific exposure-response curves for cold and heat.
+- **[Exposure-response curves](./2_exposure_response_curves_byRegion.R)**: Script to generate region-specific exposure-response curves.
 
 - **[Heatmap visualization](./3_heatmap_cold_heat.R)**: Script to create a heatmap showing the percentage increase in mortality risk associated with heat and cold temperatures across subgroups and regions.
 
