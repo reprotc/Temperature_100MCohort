@@ -4,6 +4,9 @@
 ###########################100M Brazilian cohort################################
 ################################################################################
 # Working paper by Cortes et al.
+# Code adapted from the following sources:
+# - Gasparrini A. Distributed Lag Non-Linear Models: https://github.com/gasparrini/dlnm
+# - Tobias A. Time-stratified case-crossover: https://github.com/aureliotobias/casecrossover
 ################################################################################
 # Load necessary R packages. Packages are installed if not already available.
 if(!require(dplyr)) install.packages("dplyr"); library(dplyr)
