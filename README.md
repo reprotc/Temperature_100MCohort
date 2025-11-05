@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 This repository contains the main analysis code and figures for the manuscript:  
 ### Ambient temperature and non-accidental mortality: a nationwide space-time-stratified case-crossover study within the 100 Million Brazilian Cohort
